@@ -5,7 +5,7 @@
 ## 身高：182
 ## 体重：160
 
-
+![image](https://github.com/kukudekaige/kukudekaige.github.io/blob/ae40e0ca2c020347f82ef7a6ab3074ce0de0bced/img/4.jpg)
 
 ### Markdown
 
@@ -26,7 +26,7 @@
 ### 愿望：在小日本坟头蹦迪，和小凤凰激情热吻
 
 ### 工作经历：毕业于银河小学，曾参与黄河护栏改造工程，飞机倒挡安装工程，长城瓷砖安装工程
-![image](https://github.com/kukudekaige/kukudekaige.github.io/blob/ae40e0ca2c020347f82ef7a6ab3074ce0de0bced/img/4.jpg)          
+          
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
