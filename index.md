@@ -9,7 +9,7 @@
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+天行健，君子以自强不息；地乾坤，君子以厚德载物
 
 ```markdown
 Syntax highlighted code block
