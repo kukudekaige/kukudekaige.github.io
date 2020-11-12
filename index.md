@@ -5,7 +5,7 @@
 ## 身高：182
 ## 体重：160
 
-![image](https://github.com/kukudekaige/kukudekaige.github.io/blob/ae40e0ca2c020347f82ef7a6ab3074ce0de0bced/img/4.jpg)
+![image](https://github.com/kukudekaige/kukudekaige.github.io/blob/c0c653f6884fda1018a88ecdfdc3e94edadc3feb/4.jpg)
 
 ### Markdown
 
